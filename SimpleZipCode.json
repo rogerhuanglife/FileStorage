@@ -4,51 +4,51 @@
         "districts": [
             {
                 "district": "中正區",
-                "zipoode": "100"
+                "zipcode": "100"
             },
             {
                 "district": "大同區",
-                "zipoode": "103"
+                "zipcode": "103"
             },
             {
                 "district": "中山區",
-                "zipoode": "104"
+                "zipcode": "104"
             },
             {
                 "district": "松山區",
-                "zipoode": "105"
+                "zipcode": "105"
             },
             {
                 "district": "大安區",
-                "zipoode": "106"
+                "zipcode": "106"
             },
             {
                 "district": "萬華區",
-                "zipoode": "108"
+                "zipcode": "108"
             },
             {
                 "district": "信義區",
-                "zipoode": "110"
+                "zipcode": "110"
             },
             {
                 "district": "士林區",
-                "zipoode": "111"
+                "zipcode": "111"
             },
             {
                 "district": "北投區",
-                "zipoode": "112"
+                "zipcode": "112"
             },
             {
                 "district": "內湖區",
-                "zipoode": "114"
+                "zipcode": "114"
             },
             {
                 "district": "南港區",
-                "zipoode": "115"
+                "zipcode": "115"
             },
             {
                 "district": "文山區",
-                "zipoode": "116"
+                "zipcode": "116"
             }
         ]
     },
@@ -57,31 +57,31 @@
         "districts": [
             {
                 "district": "仁愛區",
-                "zipoode": "200"
+                "zipcode": "200"
             },
             {
                 "district": "信義區",
-                "zipoode": "201"
+                "zipcode": "201"
             },
             {
                 "district": "中正區",
-                "zipoode": "202"
+                "zipcode": "202"
             },
             {
                 "district": "中山區",
-                "zipoode": "203"
+                "zipcode": "203"
             },
             {
                 "district": "安樂區",
-                "zipoode": "204"
+                "zipcode": "204"
             },
             {
                 "district": "暖暖區",
-                "zipoode": "205"
+                "zipcode": "205"
             },
             {
                 "district": "七堵區",
-                "zipoode": "206"
+                "zipcode": "206"
             }
         ]
     },
@@ -90,119 +90,119 @@
         "districts": [
             {
                 "district": "萬里區",
-                "zipoode": "207"
+                "zipcode": "207"
             },
             {
                 "district": "金山區",
-                "zipoode": "208"
+                "zipcode": "208"
             },
             {
                 "district": "板橋區",
-                "zipoode": "220"
+                "zipcode": "220"
             },
             {
                 "district": "汐止區",
-                "zipoode": "221"
+                "zipcode": "221"
             },
             {
                 "district": "深坑區",
-                "zipoode": "222"
+                "zipcode": "222"
             },
             {
                 "district": "石碇區",
-                "zipoode": "223"
+                "zipcode": "223"
             },
             {
                 "district": "瑞芳區",
-                "zipoode": "224"
+                "zipcode": "224"
             },
             {
                 "district": "平溪區",
-                "zipoode": "226"
+                "zipcode": "226"
             },
             {
                 "district": "雙溪區",
-                "zipoode": "227"
+                "zipcode": "227"
             },
             {
                 "district": "貢寮區",
-                "zipoode": "228"
+                "zipcode": "228"
             },
             {
                 "district": "新店區",
-                "zipoode": "231"
+                "zipcode": "231"
             },
             {
                 "district": "坪林區",
-                "zipoode": "232"
+                "zipcode": "232"
             },
             {
                 "district": "烏來區",
-                "zipoode": "233"
+                "zipcode": "233"
             },
             {
                 "district": "永和區",
-                "zipoode": "234"
+                "zipcode": "234"
             },
             {
                 "district": "中和區",
-                "zipoode": "235"
+                "zipcode": "235"
             },
             {
                 "district": "土城區",
-                "zipoode": "236"
+                "zipcode": "236"
             },
             {
                 "district": "三峽區",
-                "zipoode": "237"
+                "zipcode": "237"
             },
             {
                 "district": "樹林區",
-                "zipoode": "238"
+                "zipcode": "238"
             },
             {
                 "district": "鶯歌區",
-                "zipoode": "239"
+                "zipcode": "239"
             },
             {
                 "district": "三重區",
-                "zipoode": "241"
+                "zipcode": "241"
             },
             {
                 "district": "新莊區",
-                "zipoode": "242"
+                "zipcode": "242"
             },
             {
                 "district": "泰山區",
-                "zipoode": "243"
+                "zipcode": "243"
             },
             {
                 "district": "林口區",
-                "zipoode": "244"
+                "zipcode": "244"
             },
             {
                 "district": "蘆洲區",
-                "zipoode": "247"
+                "zipcode": "247"
             },
             {
                 "district": "五股區",
-                "zipoode": "248"
+                "zipcode": "248"
             },
             {
                 "district": "八里區",
-                "zipoode": "249"
+                "zipcode": "249"
             },
             {
                 "district": "淡水區",
-                "zipoode": "251"
+                "zipcode": "251"
             },
             {
                 "district": "三芝區",
-                "zipoode": "252"
+                "zipcode": "252"
             },
             {
                 "district": "石門區",
-                "zipoode": "253"
+                "zipcode": "253"
             }
         ]
     },
@@ -211,19 +211,19 @@
         "districts": [
             {
                 "district": "南竿鄉",
-                "zipoode": "209"
+                "zipcode": "209"
             },
             {
                 "district": "北竿鄉",
-                "zipoode": "210"
+                "zipcode": "210"
             },
             {
                 "district": "莒光鄉",
-                "zipoode": "211"
+                "zipcode": "211"
             },
             {
                 "district": "東引鄉",
-                "zipoode": "212"
+                "zipcode": "212"
             }
         ]
     },
@@ -232,55 +232,55 @@
         "districts": [
             {
                 "district": "宜蘭市",
-                "zipoode": "260"
+                "zipcode": "260"
             },
             {
                 "district": "壯圍鄉",
-                "zipoode": "263"
+                "zipcode": "263"
             },
             {
                 "district": "頭城鎮",
-                "zipoode": "261"
+                "zipcode": "261"
             },
             {
                 "district": "礁溪鄉",
-                "zipoode": "262"
+                "zipcode": "262"
             },
             {
                 "district": "員山鄉",
-                "zipoode": "264"
+                "zipcode": "264"
             },
             {
                 "district": "羅東鎮",
-                "zipoode": "265"
+                "zipcode": "265"
             },
             {
                 "district": "三星鄉",
-                "zipoode": "266"
+                "zipcode": "266"
             },
             {
                 "district": "大同鄉",
-                "zipoode": "267"
+                "zipcode": "267"
             },
             {
                 "district": "五結鄉",
-                "zipoode": "268"
+                "zipcode": "268"
             },
             {
                 "district": "冬山鄉",
-                "zipoode": "269"
+                "zipcode": "269"
             },
             {
                 "district": "蘇澳鎮",
-                "zipoode": "270"
+                "zipcode": "270"
             },
             {
                 "district": "南澳鄉",
-                "zipoode": "272"
+                "zipcode": "272"
             },
             {
                 "district": "釣魚臺",
-                "zipoode": "290"
+                "zipcode": "290"
             }
         ]
     },
@@ -289,7 +289,7 @@
         "districts": [
             {
                 "district": "釣魚臺",
-                "zipoode": "290"
+                "zipcode": "290"
             }
         ]
     },
@@ -298,15 +298,15 @@
         "districts": [
             {
                 "district": "東區",
-                "zipoode": "300"
+                "zipcode": "300"
             },
             {
                 "district": "北區",
-                "zipoode": "300"
+                "zipcode": "300"
             },
             {
                 "district": "香山區",
-                "zipoode": "300"
+                "zipcode": "300"
             }
         ]
     },
@@ -315,55 +315,55 @@
         "districts": [
             {
                 "district": "寶山鄉",
-                "zipoode": "308"
+                "zipcode": "308"
             },
             {
                 "district": "竹北市",
-                "zipoode": "302"
+                "zipcode": "302"
             },
             {
                 "district": "湖口鄉",
-                "zipoode": "303"
+                "zipcode": "303"
             },
             {
                 "district": "新豐鄉",
-                "zipoode": "304"
+                "zipcode": "304"
             },
             {
                 "district": "新埔鎮",
-                "zipoode": "305"
+                "zipcode": "305"
             },
             {
                 "district": "關西鎮",
-                "zipoode": "306"
+                "zipcode": "306"
             },
             {
                 "district": "芎林鄉",
-                "zipoode": "307"
+                "zipcode": "307"
             },
             {
                 "district": "竹東鎮",
-                "zipoode": "310"
+                "zipcode": "310"
             },
             {
                 "district": "五峰鄉",
-                "zipoode": "311"
+                "zipcode": "311"
             },
             {
                 "district": "橫山鄉",
-                "zipoode": "312"
+                "zipcode": "312"
             },
             {
                 "district": "尖石鄉",
-                "zipoode": "313"
+                "zipcode": "313"
             },
             {
                 "district": "北埔鄉",
-                "zipoode": "314"
+                "zipcode": "314"
             },
             {
                 "district": "峨眉鄉",
-                "zipoode": "315"
+                "zipcode": "315"
             }
         ]
     },
@@ -372,55 +372,55 @@
         "districts": [
             {
                 "district": "中壢區",
-                "zipoode": "320"
+                "zipcode": "320"
             },
             {
                 "district": "平鎮區",
-                "zipoode": "324"
+                "zipcode": "324"
             },
             {
                 "district": "龍潭區",
-                "zipoode": "325"
+                "zipcode": "325"
             },
             {
                 "district": "楊梅區",
-                "zipoode": "326"
+                "zipcode": "326"
             },
             {
                 "district": "新屋區",
-                "zipoode": "327"
+                "zipcode": "327"
             },
             {
                 "district": "觀音區",
-                "zipoode": "328"
+                "zipcode": "328"
             },
             {
                 "district": "桃園區",
-                "zipoode": "330"
+                "zipcode": "330"
             },
             {
                 "district": "龜山區",
-                "zipoode": "333"
+                "zipcode": "333"
             },
             {
                 "district": "八德區",
-                "zipoode": "334"
+                "zipcode": "334"
             },
             {
                 "district": "大溪區",
-                "zipoode": "335"
+                "zipcode": "335"
             },
             {
                 "district": "復興區",
-                "zipoode": "336"
+                "zipcode": "336"
             },
             {
                 "district": "大園區",
-                "zipoode": "337"
+                "zipcode": "337"
             },
             {
                 "district": "蘆竹區",
-                "zipoode": "338"
+                "zipcode": "338"
             }
         ]
     },
@@ -429,75 +429,75 @@
         "districts": [
             {
                 "district": "竹南鎮",
-                "zipoode": "350"
+                "zipcode": "350"
             },
             {
                 "district": "頭份市",
-                "zipoode": "351"
+                "zipcode": "351"
             },
             {
                 "district": "三灣鄉",
-                "zipoode": "352"
+                "zipcode": "352"
             },
             {
                 "district": "南庄鄉",
-                "zipoode": "353"
+                "zipcode": "353"
             },
             {
                 "district": "獅潭鄉",
-                "zipoode": "354"
+                "zipcode": "354"
             },
             {
                 "district": "後龍鎮",
-                "zipoode": "356"
+                "zipcode": "356"
             },
             {
                 "district": "通霄鎮",
-                "zipoode": "357"
+                "zipcode": "357"
             },
             {
                 "district": "苑裡鎮",
-                "zipoode": "358"
+                "zipcode": "358"
             },
             {
                 "district": "苗栗市",
-                "zipoode": "360"
+                "zipcode": "360"
             },
             {
                 "district": "造橋鄉",
-                "zipoode": "361"
+                "zipcode": "361"
             },
             {
                 "district": "頭屋鄉",
-                "zipoode": "362"
+                "zipcode": "362"
             },
             {
                 "district": "公館鄉",
-                "zipoode": "363"
+                "zipcode": "363"
             },
             {
                 "district": "大湖鄉",
-                "zipoode": "364"
+                "zipcode": "364"
             },
             {
                 "district": "泰安鄉",
-                "zipoode": "365"
+                "zipcode": "365"
             },
             {
                 "district": "銅鑼鄉",
-                "zipoode": "366"
+                "zipcode": "366"
             },
             {
                 "district": "三義鄉",
-                "zipoode": "367"
+                "zipcode": "367"
             },
             {
                 "district": "西湖鄉",
-                "zipoode": "368"
+                "zipcode": "368"
             },
             {
                 "district": "卓蘭鎮",
-                "zipoode": "369"
+                "zipcode": "369"
             }
         ]
     },
@@ -506,119 +506,119 @@
         "districts": [
             {
                 "district": "中區",
-                "zipoode": "400"
+                "zipcode": "400"
             },
             {
                 "district": "東區",
-                "zipoode": "401"
+                "zipcode": "401"
             },
             {
                 "district": "南區",
-                "zipoode": "402"
+                "zipcode": "402"
             },
             {
                 "district": "西區",
-                "zipoode": "403"
+                "zipcode": "403"
             },
             {
                 "district": "北區",
-                "zipoode": "404"
+                "zipcode": "404"
             },
             {
                 "district": "北屯區",
-                "zipoode": "406"
+                "zipcode": "406"
             },
             {
                 "district": "西屯區",
-                "zipoode": "407"
+                "zipcode": "407"
             },
             {
                 "district": "南屯區",
-                "zipoode": "408"
+                "zipcode": "408"
             },
             {
                 "district": "太平區",
-                "zipoode": "411"
+                "zipcode": "411"
             },
             {
                 "district": "大里區",
-                "zipoode": "412"
+                "zipcode": "412"
             },
             {
                 "district": "霧峰區",
-                "zipoode": "413"
+                "zipcode": "413"
             },
             {
                 "district": "烏日區",
-                "zipoode": "414"
+                "zipcode": "414"
             },
             {
                 "district": "豐原區",
-                "zipoode": "420"
+                "zipcode": "420"
             },
             {
                 "district": "后里區",
-                "zipoode": "421"
+                "zipcode": "421"
             },
             {
                 "district": "石岡區",
-                "zipoode": "422"
+                "zipcode": "422"
             },
             {
                 "district": "東勢區",
-                "zipoode": "423"
+                "zipcode": "423"
             },
             {
                 "district": "和平區",
-                "zipoode": "424"
+                "zipcode": "424"
             },
             {
                 "district": "新社區",
-                "zipoode": "426"
+                "zipcode": "426"
             },
             {
                 "district": "潭子區",
-                "zipoode": "427"
+                "zipcode": "427"
             },
             {
                 "district": "大雅區",
-                "zipoode": "428"
+                "zipcode": "428"
             },
             {
                 "district": "神岡區",
-                "zipoode": "429"
+                "zipcode": "429"
             },
             {
                 "district": "大肚區",
-                "zipoode": "432"
+                "zipcode": "432"
             },
             {
                 "district": "沙鹿區",
-                "zipoode": "433"
+                "zipcode": "433"
             },
             {
                 "district": "龍井區",
-                "zipoode": "434"
+                "zipcode": "434"
             },
             {
                 "district": "梧棲區",
-                "zipoode": "435"
+                "zipcode": "435"
             },
             {
                 "district": "清水區",
-                "zipoode": "436"
+                "zipcode": "436"
             },
             {
                 "district": "大甲區",
-                "zipoode": "437"
+                "zipcode": "437"
             },
             {
                 "district": "外埔區",
-                "zipoode": "438"
+                "zipcode": "438"
             },
             {
                 "district": "大安區",
-                "zipoode": "439"
+                "zipcode": "439"
             }
         ]
     },
@@ -627,107 +627,107 @@
         "districts": [
             {
                 "district": "彰化市",
-                "zipoode": "500"
+                "zipcode": "500"
             },
             {
                 "district": "芬園鄉",
-                "zipoode": "502"
+                "zipcode": "502"
             },
             {
                 "district": "花壇鄉",
-                "zipoode": "503"
+                "zipcode": "503"
             },
             {
                 "district": "秀水鄉",
-                "zipoode": "504"
+                "zipcode": "504"
             },
             {
                 "district": "鹿港鎮",
-                "zipoode": "505"
+                "zipcode": "505"
             },
             {
                 "district": "福興鄉",
-                "zipoode": "506"
+                "zipcode": "506"
             },
             {
                 "district": "線西鄉",
-                "zipoode": "507"
+                "zipcode": "507"
             },
             {
                 "district": "和美鎮",
-                "zipoode": "508"
+                "zipcode": "508"
             },
             {
                 "district": "伸港鄉",
-                "zipoode": "509"
+                "zipcode": "509"
             },
             {
                 "district": "員林市",
-                "zipoode": "510"
+                "zipcode": "510"
             },
             {
                 "district": "社頭鄉",
-                "zipoode": "511"
+                "zipcode": "511"
             },
             {
                 "district": "永靖鄉",
-                "zipoode": "512"
+                "zipcode": "512"
             },
             {
                 "district": "埔心鄉",
-                "zipoode": "513"
+                "zipcode": "513"
             },
             {
                 "district": "溪湖鎮",
-                "zipoode": "514"
+                "zipcode": "514"
             },
             {
                 "district": "大村鄉",
-                "zipoode": "515"
+                "zipcode": "515"
             },
             {
                 "district": "埔鹽鄉",
-                "zipoode": "516"
+                "zipcode": "516"
             },
             {
                 "district": "田中鎮",
-                "zipoode": "520"
+                "zipcode": "520"
             },
             {
                 "district": "北斗鎮",
-                "zipoode": "521"
+                "zipcode": "521"
             },
             {
                 "district": "田尾鄉",
-                "zipoode": "522"
+                "zipcode": "522"
             },
             {
                 "district": "埤頭鄉",
-                "zipoode": "523"
+                "zipcode": "523"
             },
             {
                 "district": "溪州鄉",
-                "zipoode": "524"
+                "zipcode": "524"
             },
             {
                 "district": "竹塘鄉",
-                "zipoode": "525"
+                "zipcode": "525"
             },
             {
                 "district": "二林鎮",
-                "zipoode": "526"
+                "zipcode": "526"
             },
             {
                 "district": "大城鄉",
-                "zipoode": "527"
+                "zipcode": "527"
             },
             {
                 "district": "芳苑鄉",
-                "zipoode": "528"
+                "zipcode": "528"
             },
             {
                 "district": "二水鄉",
-                "zipoode": "530"
+                "zipcode": "530"
             }
         ]
     },
@@ -736,55 +736,55 @@
         "districts": [
             {
                 "district": "南投市",
-                "zipoode": "540"
+                "zipcode": "540"
             },
             {
                 "district": "中寮鄉",
-                "zipoode": "541"
+                "zipcode": "541"
             },
             {
                 "district": "草屯鎮",
-                "zipoode": "542"
+                "zipcode": "542"
             },
             {
                 "district": "國姓鄉",
-                "zipoode": "544"
+                "zipcode": "544"
             },
             {
                 "district": "埔里鎮",
-                "zipoode": "545"
+                "zipcode": "545"
             },
             {
                 "district": "仁愛鄉",
-                "zipoode": "546"
+                "zipcode": "546"
             },
             {
                 "district": "名間鄉",
-                "zipoode": "551"
+                "zipcode": "551"
             },
             {
                 "district": "集集鎮",
-                "zipoode": "552"
+                "zipcode": "552"
             },
             {
                 "district": "水里鄉",
-                "zipoode": "553"
+                "zipcode": "553"
             },
             {
                 "district": "魚池鄉",
-                "zipoode": "555"
+                "zipcode": "555"
             },
             {
                 "district": "信義鄉",
-                "zipoode": "556"
+                "zipcode": "556"
             },
             {
                 "district": "竹山鎮",
-                "zipoode": "557"
+                "zipcode": "557"
             },
             {
                 "district": "鹿谷鄉",
-                "zipoode": "558"
+                "zipcode": "558"
             }
         ]
     },
@@ -793,11 +793,11 @@
         "districts": [
             {
                 "district": "西區",
-                "zipoode": "600"
+                "zipcode": "600"
             },
             {
                 "district": "東區",
-                "zipoode": "600"
+                "zipcode": "600"
             }
         ]
     },
@@ -806,75 +806,75 @@
         "districts": [
             {
                 "district": "番路鄉",
-                "zipoode": "602"
+                "zipcode": "602"
             },
             {
                 "district": "梅山鄉",
-                "zipoode": "603"
+                "zipcode": "603"
             },
             {
                 "district": "竹崎鄉",
-                "zipoode": "604"
+                "zipcode": "604"
             },
             {
                 "district": "阿里山鄉",
-                "zipoode": "605"
+                "zipcode": "605"
             },
             {
                 "district": "中埔鄉",
-                "zipoode": "606"
+                "zipcode": "606"
             },
             {
                 "district": "大埔鄉",
-                "zipoode": "607"
+                "zipcode": "607"
             },
             {
                 "district": "水上鄉",
-                "zipoode": "608"
+                "zipcode": "608"
             },
             {
                 "district": "鹿草鄉",
-                "zipoode": "611"
+                "zipcode": "611"
             },
             {
                 "district": "太保市",
-                "zipoode": "612"
+                "zipcode": "612"
             },
             {
                 "district": "朴子市",
-                "zipoode": "613"
+                "zipcode": "613"
             },
             {
                 "district": "東石鄉",
-                "zipoode": "614"
+                "zipcode": "614"
             },
             {
                 "district": "六腳鄉",
-                "zipoode": "615"
+                "zipcode": "615"
             },
             {
                 "district": "新港鄉",
-                "zipoode": "616"
+                "zipcode": "616"
             },
             {
                 "district": "民雄鄉",
-                "zipoode": "621"
+                "zipcode": "621"
             },
             {
                 "district": "大林鎮",
-                "zipoode": "622"
+                "zipcode": "622"
             },
             {
                 "district": "溪口鄉",
-                "zipoode": "623"
+                "zipcode": "623"
             },
             {
                 "district": "義竹鄉",
-                "zipoode": "624"
+                "zipcode": "624"
             },
             {
                 "district": "布袋鎮",
-                "zipoode": "625"
+                "zipcode": "625"
             }
         ]
     },
@@ -883,83 +883,83 @@
         "districts": [
             {
                 "district": "斗南鎮",
-                "zipoode": "630"
+                "zipcode": "630"
             },
             {
                 "district": "大埤鄉",
-                "zipoode": "631"
+                "zipcode": "631"
             },
             {
                 "district": "虎尾鎮",
-                "zipoode": "632"
+                "zipcode": "632"
             },
             {
                 "district": "土庫鎮",
-                "zipoode": "633"
+                "zipcode": "633"
             },
             {
                 "district": "褒忠鄉",
-                "zipoode": "634"
+                "zipcode": "634"
             },
             {
                 "district": "東勢鄉",
-                "zipoode": "635"
+                "zipcode": "635"
             },
             {
                 "district": "臺西鄉",
-                "zipoode": "636"
+                "zipcode": "636"
             },
             {
                 "district": "崙背鄉",
-                "zipoode": "637"
+                "zipcode": "637"
             },
             {
                 "district": "麥寮鄉",
-                "zipoode": "638"
+                "zipcode": "638"
             },
             {
                 "district": "斗六市",
-                "zipoode": "640"
+                "zipcode": "640"
             },
             {
                 "district": "林內鄉",
-                "zipoode": "643"
+                "zipcode": "643"
             },
             {
                 "district": "古坑鄉",
-                "zipoode": "646"
+                "zipcode": "646"
             },
             {
                 "district": "莿桐鄉",
-                "zipoode": "647"
+                "zipcode": "647"
             },
             {
                 "district": "西螺鎮",
-                "zipoode": "648"
+                "zipcode": "648"
             },
             {
                 "district": "二崙鄉",
-                "zipoode": "649"
+                "zipcode": "649"
             },
             {
                 "district": "北港鎮",
-                "zipoode": "651"
+                "zipcode": "651"
             },
             {
                 "district": "水林鄉",
-                "zipoode": "652"
+                "zipcode": "652"
             },
             {
                 "district": "口湖鄉",
-                "zipoode": "653"
+                "zipcode": "653"
             },
             {
                 "district": "四湖鄉",
-                "zipoode": "654"
+                "zipcode": "654"
             },
             {
                 "district": "元長鄉",
-                "zipoode": "655"
+                "zipcode": "655"
             }
         ]
     },
@@ -968,151 +968,151 @@
         "districts": [
             {
                 "district": "中西區",
-                "zipoode": "700"
+                "zipcode": "700"
             },
             {
                 "district": "東區",
-                "zipoode": "701"
+                "zipcode": "701"
             },
             {
                 "district": "南區",
-                "zipoode": "702"
+                "zipcode": "702"
             },
             {
                 "district": "北區",
-                "zipoode": "704"
+                "zipcode": "704"
             },
             {
                 "district": "安平區",
-                "zipoode": "708"
+                "zipcode": "708"
             },
             {
                 "district": "安南區",
-                "zipoode": "709"
+                "zipcode": "709"
             },
             {
                 "district": "永康區",
-                "zipoode": "710"
+                "zipcode": "710"
             },
             {
                 "district": "歸仁區",
-                "zipoode": "711"
+                "zipcode": "711"
             },
             {
                 "district": "新化區",
-                "zipoode": "712"
+                "zipcode": "712"
             },
             {
                 "district": "左鎮區",
-                "zipoode": "713"
+                "zipcode": "713"
             },
             {
                 "district": "玉井區",
-                "zipoode": "714"
+                "zipcode": "714"
             },
             {
                 "district": "楠西區",
-                "zipoode": "715"
+                "zipcode": "715"
             },
             {
                 "district": "南化區",
-                "zipoode": "716"
+                "zipcode": "716"
             },
             {
                 "district": "仁德區",
-                "zipoode": "717"
+                "zipcode": "717"
             },
             {
                 "district": "關廟區",
-                "zipoode": "718"
+                "zipcode": "718"
             },
             {
                 "district": "龍崎區",
-                "zipoode": "719"
+                "zipcode": "719"
             },
             {
                 "district": "官田區",
-                "zipoode": "720"
+                "zipcode": "720"
             },
             {
                 "district": "麻豆區",
-                "zipoode": "721"
+                "zipcode": "721"
             },
             {
                 "district": "佳里區",
-                "zipoode": "722"
+                "zipcode": "722"
             },
             {
                 "district": "西港區",
-                "zipoode": "723"
+                "zipcode": "723"
             },
             {
                 "district": "七股區",
-                "zipoode": "724"
+                "zipcode": "724"
             },
             {
                 "district": "將軍區",
-                "zipoode": "725"
+                "zipcode": "725"
             },
             {
                 "district": "學甲區",
-                "zipoode": "726"
+                "zipcode": "726"
             },
             {
                 "district": "北門區",
-                "zipoode": "727"
+                "zipcode": "727"
             },
             {
                 "district": "新營區",
-                "zipoode": "730"
+                "zipcode": "730"
             },
             {
                 "district": "後壁區",
-                "zipoode": "731"
+                "zipcode": "731"
             },
             {
                 "district": "白河區",
-                "zipoode": "732"
+                "zipcode": "732"
             },
             {
                 "district": "東山區",
-                "zipoode": "733"
+                "zipcode": "733"
             },
             {
                 "district": "六甲區",
-                "zipoode": "734"
+                "zipcode": "734"
             },
             {
                 "district": "下營區",
-                "zipoode": "735"
+                "zipcode": "735"
             },
             {
                 "district": "柳營區",
-                "zipoode": "736"
+                "zipcode": "736"
             },
             {
                 "district": "鹽水區",
-                "zipoode": "737"
+                "zipcode": "737"
             },
             {
                 "district": "善化區",
-                "zipoode": "741"
+                "zipcode": "741"
             },
             {
                 "district": "新市區",
-                "zipoode": "744"
+                "zipcode": "744"
             },
             {
                 "district": "大內區",
-                "zipoode": "742"
+                "zipcode": "742"
             },
             {
                 "district": "山上區",
-                "zipoode": "743"
+                "zipcode": "743"
             },
             {
                 "district": "安定區",
-                "zipoode": "745"
+                "zipcode": "745"
             }
         ]
     },
@@ -1121,163 +1121,163 @@
         "districts": [
             {
                 "district": "新興區",
-                "zipoode": "800"
+                "zipcode": "800"
             },
             {
                 "district": "前金區",
-                "zipoode": "801"
+                "zipcode": "801"
             },
             {
                 "district": "苓雅區",
-                "zipoode": "802"
+                "zipcode": "802"
             },
             {
                 "district": "鹽埕區",
-                "zipoode": "803"
+                "zipcode": "803"
             },
             {
                 "district": "鼓山區",
-                "zipoode": "804"
+                "zipcode": "804"
             },
             {
                 "district": "旗津區",
-                "zipoode": "805"
+                "zipcode": "805"
             },
             {
                 "district": "前鎮區",
-                "zipoode": "806"
+                "zipcode": "806"
             },
             {
                 "district": "三民區",
-                "zipoode": "807"
+                "zipcode": "807"
             },
             {
                 "district": "楠梓區",
-                "zipoode": "811"
+                "zipcode": "811"
             },
             {
                 "district": "小港區",
-                "zipoode": "812"
+                "zipcode": "812"
             },
             {
                 "district": "左營區",
-                "zipoode": "813"
+                "zipcode": "813"
             },
             {
                 "district": "仁武區",
-                "zipoode": "814"
+                "zipcode": "814"
             },
             {
                 "district": "大社區",
-                "zipoode": "815"
+                "zipcode": "815"
             },
             {
                 "district": "東沙群島",
-                "zipoode": "817"
+                "zipcode": "817"
             },
             {
                 "district": "南沙群島",
-                "zipoode": "819"
+                "zipcode": "819"
             },
             {
                 "district": "岡山區",
-                "zipoode": "820"
+                "zipcode": "820"
             },
             {
                 "district": "路竹區",
-                "zipoode": "821"
+                "zipcode": "821"
             },
             {
                 "district": "阿蓮區",
-                "zipoode": "822"
+                "zipcode": "822"
             },
             {
                 "district": "田寮區",
-                "zipoode": "823"
+                "zipcode": "823"
             },
             {
                 "district": "燕巢區",
-                "zipoode": "824"
+                "zipcode": "824"
             },
             {
                 "district": "橋頭區",
-                "zipoode": "825"
+                "zipcode": "825"
             },
             {
                 "district": "梓官區",
-                "zipoode": "826"
+                "zipcode": "826"
             },
             {
                 "district": "彌陀區",
-                "zipoode": "827"
+                "zipcode": "827"
             },
             {
                 "district": "永安區",
-                "zipoode": "828"
+                "zipcode": "828"
             },
             {
                 "district": "湖內區",
-                "zipoode": "829"
+                "zipcode": "829"
             },
             {
                 "district": "鳳山區",
-                "zipoode": "830"
+                "zipcode": "830"
             },
             {
                 "district": "大寮區",
-                "zipoode": "831"
+                "zipcode": "831"
             },
             {
                 "district": "林園區",
-                "zipoode": "832"
+                "zipcode": "832"
             },
             {
                 "district": "鳥松區",
-                "zipoode": "833"
+                "zipcode": "833"
             },
             {
                 "district": "大樹區",
-                "zipoode": "840"
+                "zipcode": "840"
             },
             {
                 "district": "旗山區",
-                "zipoode": "842"
+                "zipcode": "842"
             },
             {
                 "district": "美濃區",
-                "zipoode": "843"
+                "zipcode": "843"
             },
             {
                 "district": "六龜區",
-                "zipoode": "844"
+                "zipcode": "844"
             },
             {
                 "district": "內門區",
-                "zipoode": "845"
+                "zipcode": "845"
             },
             {
                 "district": "杉林區",
-                "zipoode": "846"
+                "zipcode": "846"
             },
             {
                 "district": "甲仙區",
-                "zipoode": "847"
+                "zipcode": "847"
             },
             {
                 "district": "桃源區",
-                "zipoode": "848"
+                "zipcode": "848"
             },
             {
                 "district": "那瑪夏區",
-                "zipoode": "849"
+                "zipcode": "849"
             },
             {
                 "district": "茂林區",
-                "zipoode": "851"
+                "zipcode": "851"
             },
             {
                 "district": "茄萣區",
-                "zipoode": "852"
+                "zipcode": "852"
             }
         ]
     },
@@ -1286,11 +1286,11 @@
         "districts": [
             {
                 "district": "東沙群島",
-                "zipoode": "817"
+                "zipcode": "817"
             },
             {
                 "district": "南沙群島",
-                "zipoode": "819"
+                "zipcode": "819"
             }
         ]
     },
@@ -1299,27 +1299,27 @@
         "districts": [
             {
                 "district": "馬公市",
-                "zipoode": "880"
+                "zipcode": "880"
             },
             {
                 "district": "西嶼鄉",
-                "zipoode": "881"
+                "zipcode": "881"
             },
             {
                 "district": "望安鄉",
-                "zipoode": "882"
+                "zipcode": "882"
             },
             {
                 "district": "七美鄉",
-                "zipoode": "883"
+                "zipcode": "883"
             },
             {
                 "district": "白沙鄉",
-                "zipoode": "884"
+                "zipcode": "884"
             },
             {
                 "district": "湖西鄉",
-                "zipoode": "885"
+                "zipcode": "885"
             }
         ]
     },
@@ -1328,27 +1328,27 @@
         "districts": [
             {
                 "district": "金沙鎮",
-                "zipoode": "890"
+                "zipcode": "890"
             },
             {
                 "district": "金湖鎮",
-                "zipoode": "891"
+                "zipcode": "891"
             },
             {
                 "district": "金寧鄉",
-                "zipoode": "892"
+                "zipcode": "892"
             },
             {
                 "district": "金城鎮",
-                "zipoode": "893"
+                "zipcode": "893"
             },
             {
                 "district": "烈嶼鄉",
-                "zipoode": "894"
+                "zipcode": "894"
             },
             {
                 "district": "烏坵鄉",
-                "zipoode": "896"
+                "zipcode": "896"
             }
         ]
     },
@@ -1357,135 +1357,135 @@
         "districts": [
             {
                 "district": "屏東市",
-                "zipoode": "900"
+                "zipcode": "900"
             },
             {
                 "district": "三地門鄉",
-                "zipoode": "901"
+                "zipcode": "901"
             },
             {
                 "district": "霧臺鄉",
-                "zipoode": "902"
+                "zipcode": "902"
             },
             {
                 "district": "瑪家鄉",
-                "zipoode": "903"
+                "zipcode": "903"
             },
             {
                 "district": "九如鄉",
-                "zipoode": "904"
+                "zipcode": "904"
             },
             {
                 "district": "里港鄉",
-                "zipoode": "905"
+                "zipcode": "905"
             },
             {
                 "district": "高樹鄉",
-                "zipoode": "906"
+                "zipcode": "906"
             },
             {
                 "district": "鹽埔鄉",
-                "zipoode": "907"
+                "zipcode": "907"
             },
             {
                 "district": "長治鄉",
-                "zipoode": "908"
+                "zipcode": "908"
             },
             {
                 "district": "麟洛鄉",
-                "zipoode": "909"
+                "zipcode": "909"
             },
             {
                 "district": "竹田鄉",
-                "zipoode": "911"
+                "zipcode": "911"
             },
             {
                 "district": "內埔鄉",
-                "zipoode": "912"
+                "zipcode": "912"
             },
             {
                 "district": "萬丹鄉",
-                "zipoode": "913"
+                "zipcode": "913"
             },
             {
                 "district": "潮州鎮",
-                "zipoode": "920"
+                "zipcode": "920"
             },
             {
                 "district": "泰武鄉",
-                "zipoode": "921"
+                "zipcode": "921"
             },
             {
                 "district": "來義鄉",
-                "zipoode": "922"
+                "zipcode": "922"
             },
             {
                 "district": "萬巒鄉",
-                "zipoode": "923"
+                "zipcode": "923"
             },
             {
                 "district": "崁頂鄉",
-                "zipoode": "924"
+                "zipcode": "924"
             },
             {
                 "district": "新埤鄉",
-                "zipoode": "925"
+                "zipcode": "925"
             },
             {
                 "district": "南州鄉",
-                "zipoode": "926"
+                "zipcode": "926"
             },
             {
                 "district": "林邊鄉",
-                "zipoode": "927"
+                "zipcode": "927"
             },
             {
                 "district": "東港鎮",
-                "zipoode": "928"
+                "zipcode": "928"
             },
             {
                 "district": "琉球鄉",
-                "zipoode": "929"
+                "zipcode": "929"
             },
             {
                 "district": "佳冬鄉",
-                "zipoode": "931"
+                "zipcode": "931"
             },
             {
                 "district": "新園鄉",
-                "zipoode": "932"
+                "zipcode": "932"
             },
             {
                 "district": "枋寮鄉",
-                "zipoode": "940"
+                "zipcode": "940"
             },
             {
                 "district": "枋山鄉",
-                "zipoode": "941"
+                "zipcode": "941"
             },
             {
                 "district": "春日鄉",
-                "zipoode": "942"
+                "zipcode": "942"
             },
             {
                 "district": "獅子鄉",
-                "zipoode": "943"
+                "zipcode": "943"
             },
             {
                 "district": "車城鄉",
-                "zipoode": "944"
+                "zipcode": "944"
             },
             {
                 "district": "牡丹鄉",
-                "zipoode": "945"
+                "zipcode": "945"
             },
             {
                 "district": "恆春鎮",
-                "zipoode": "946"
+                "zipcode": "946"
             },
             {
                 "district": "滿州鄉",
-                "zipoode": "947"
+                "zipcode": "947"
             }
         ]
     },
@@ -1494,67 +1494,67 @@
         "districts": [
             {
                 "district": "臺東市",
-                "zipoode": "950"
+                "zipcode": "950"
             },
             {
                 "district": "綠島鄉",
-                "zipoode": "951"
+                "zipcode": "951"
             },
             {
                 "district": "蘭嶼鄉",
-                "zipoode": "952"
+                "zipcode": "952"
             },
             {
                 "district": "延平鄉",
-                "zipoode": "953"
+                "zipcode": "953"
             },
             {
                 "district": "卑南鄉",
-                "zipoode": "954"
+                "zipcode": "954"
             },
             {
                 "district": "鹿野鄉",
-                "zipoode": "955"
+                "zipcode": "955"
             },
             {
                 "district": "關山鎮",
-                "zipoode": "956"
+                "zipcode": "956"
             },
             {
                 "district": "海端鄉",
-                "zipoode": "957"
+                "zipcode": "957"
             },
             {
                 "district": "池上鄉",
-                "zipoode": "958"
+                "zipcode": "958"
             },
             {
                 "district": "東河鄉",
-                "zipoode": "959"
+                "zipcode": "959"
             },
             {
                 "district": "成功鎮",
-                "zipoode": "961"
+                "zipcode": "961"
             },
             {
                 "district": "長濱鄉",
-                "zipoode": "962"
+                "zipcode": "962"
             },
             {
                 "district": "太麻里鄉",
-                "zipoode": "963"
+                "zipcode": "963"
             },
             {
                 "district": "金峰鄉",
-                "zipoode": "964"
+                "zipcode": "964"
             },
             {
                 "district": "大武鄉",
-                "zipoode": "965"
+                "zipcode": "965"
             },
             {
                 "district": "達仁鄉",
-                "zipoode": "966"
+                "zipcode": "966"
             }
         ]
     },
@@ -1563,55 +1563,55 @@
         "districts": [
             {
                 "district": "花蓮市",
-                "zipoode": "970"
+                "zipcode": "970"
             },
             {
                 "district": "新城鄉",
-                "zipoode": "971"
+                "zipcode": "971"
             },
             {
                 "district": "秀林鄉",
-                "zipoode": "972"
+                "zipcode": "972"
             },
             {
                 "district": "吉安鄉",
-                "zipoode": "973"
+                "zipcode": "973"
             },
             {
                 "district": "壽豐鄉",
-                "zipoode": "974"
+                "zipcode": "974"
             },
             {
                 "district": "鳳林鎮",
-                "zipoode": "975"
+                "zipcode": "975"
             },
             {
                 "district": "光復鄉",
-                "zipoode": "976"
+                "zipcode": "976"
             },
             {
                 "district": "豐濱鄉",
-                "zipoode": "977"
+                "zipcode": "977"
             },
             {
                 "district": "瑞穗鄉",
-                "zipoode": "978"
+                "zipcode": "978"
             },
             {
                 "district": "萬榮鄉",
-                "zipoode": "979"
+                "zipcode": "979"
             },
             {
                 "district": "玉里鎮",
-                "zipoode": "981"
+                "zipcode": "981"
             },
             {
                 "district": "卓溪鄉",
-                "zipoode": "982"
+                "zipcode": "982"
             },
             {
                 "district": "富里鄉",
-                "zipoode": "983"
+                "zipcode": "983"
             }
         ]
     }
