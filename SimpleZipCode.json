@@ -1,0 +1,1618 @@
+[
+    {
+        "city": "臺北市",
+        "districts": [
+            {
+                "district": "中正區",
+                "zipoode": "100"
+            },
+            {
+                "district": "大同區",
+                "zipoode": "103"
+            },
+            {
+                "district": "中山區",
+                "zipoode": "104"
+            },
+            {
+                "district": "松山區",
+                "zipoode": "105"
+            },
+            {
+                "district": "大安區",
+                "zipoode": "106"
+            },
+            {
+                "district": "萬華區",
+                "zipoode": "108"
+            },
+            {
+                "district": "信義區",
+                "zipoode": "110"
+            },
+            {
+                "district": "士林區",
+                "zipoode": "111"
+            },
+            {
+                "district": "北投區",
+                "zipoode": "112"
+            },
+            {
+                "district": "內湖區",
+                "zipoode": "114"
+            },
+            {
+                "district": "南港區",
+                "zipoode": "115"
+            },
+            {
+                "district": "文山區",
+                "zipoode": "116"
+            }
+        ]
+    },
+    {
+        "city": "基隆市",
+        "districts": [
+            {
+                "district": "仁愛區",
+                "zipoode": "200"
+            },
+            {
+                "district": "信義區",
+                "zipoode": "201"
+            },
+            {
+                "district": "中正區",
+                "zipoode": "202"
+            },
+            {
+                "district": "中山區",
+                "zipoode": "203"
+            },
+            {
+                "district": "安樂區",
+                "zipoode": "204"
+            },
+            {
+                "district": "暖暖區",
+                "zipoode": "205"
+            },
+            {
+                "district": "七堵區",
+                "zipoode": "206"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "districts": [
+            {
+                "district": "萬里區",
+                "zipoode": "207"
+            },
+            {
+                "district": "金山區",
+                "zipoode": "208"
+            },
+            {
+                "district": "板橋區",
+                "zipoode": "220"
+            },
+            {
+                "district": "汐止區",
+                "zipoode": "221"
+            },
+            {
+                "district": "深坑區",
+                "zipoode": "222"
+            },
+            {
+                "district": "石碇區",
+                "zipoode": "223"
+            },
+            {
+                "district": "瑞芳區",
+                "zipoode": "224"
+            },
+            {
+                "district": "平溪區",
+                "zipoode": "226"
+            },
+            {
+                "district": "雙溪區",
+                "zipoode": "227"
+            },
+            {
+                "district": "貢寮區",
+                "zipoode": "228"
+            },
+            {
+                "district": "新店區",
+                "zipoode": "231"
+            },
+            {
+                "district": "坪林區",
+                "zipoode": "232"
+            },
+            {
+                "district": "烏來區",
+                "zipoode": "233"
+            },
+            {
+                "district": "永和區",
+                "zipoode": "234"
+            },
+            {
+                "district": "中和區",
+                "zipoode": "235"
+            },
+            {
+                "district": "土城區",
+                "zipoode": "236"
+            },
+            {
+                "district": "三峽區",
+                "zipoode": "237"
+            },
+            {
+                "district": "樹林區",
+                "zipoode": "238"
+            },
+            {
+                "district": "鶯歌區",
+                "zipoode": "239"
+            },
+            {
+                "district": "三重區",
+                "zipoode": "241"
+            },
+            {
+                "district": "新莊區",
+                "zipoode": "242"
+            },
+            {
+                "district": "泰山區",
+                "zipoode": "243"
+            },
+            {
+                "district": "林口區",
+                "zipoode": "244"
+            },
+            {
+                "district": "蘆洲區",
+                "zipoode": "247"
+            },
+            {
+                "district": "五股區",
+                "zipoode": "248"
+            },
+            {
+                "district": "八里區",
+                "zipoode": "249"
+            },
+            {
+                "district": "淡水區",
+                "zipoode": "251"
+            },
+            {
+                "district": "三芝區",
+                "zipoode": "252"
+            },
+            {
+                "district": "石門區",
+                "zipoode": "253"
+            }
+        ]
+    },
+    {
+        "city": "連江縣",
+        "districts": [
+            {
+                "district": "南竿鄉",
+                "zipoode": "209"
+            },
+            {
+                "district": "北竿鄉",
+                "zipoode": "210"
+            },
+            {
+                "district": "莒光鄉",
+                "zipoode": "211"
+            },
+            {
+                "district": "東引鄉",
+                "zipoode": "212"
+            }
+        ]
+    },
+    {
+        "city": "宜蘭縣",
+        "districts": [
+            {
+                "district": "宜蘭市",
+                "zipoode": "260"
+            },
+            {
+                "district": "壯圍鄉",
+                "zipoode": "263"
+            },
+            {
+                "district": "頭城鎮",
+                "zipoode": "261"
+            },
+            {
+                "district": "礁溪鄉",
+                "zipoode": "262"
+            },
+            {
+                "district": "員山鄉",
+                "zipoode": "264"
+            },
+            {
+                "district": "羅東鎮",
+                "zipoode": "265"
+            },
+            {
+                "district": "三星鄉",
+                "zipoode": "266"
+            },
+            {
+                "district": "大同鄉",
+                "zipoode": "267"
+            },
+            {
+                "district": "五結鄉",
+                "zipoode": "268"
+            },
+            {
+                "district": "冬山鄉",
+                "zipoode": "269"
+            },
+            {
+                "district": "蘇澳鎮",
+                "zipoode": "270"
+            },
+            {
+                "district": "南澳鄉",
+                "zipoode": "272"
+            },
+            {
+                "district": "釣魚臺",
+                "zipoode": "290"
+            }
+        ]
+    },
+    {
+        "city": "釣魚臺",
+        "districts": [
+            {
+                "district": "釣魚臺",
+                "zipoode": "290"
+            }
+        ]
+    },
+    {
+        "city": "新竹市",
+        "districts": [
+            {
+                "district": "東區",
+                "zipoode": "300"
+            },
+            {
+                "district": "北區",
+                "zipoode": "300"
+            },
+            {
+                "district": "香山區",
+                "zipoode": "300"
+            }
+        ]
+    },
+    {
+        "city": "新竹縣",
+        "districts": [
+            {
+                "district": "寶山鄉",
+                "zipoode": "308"
+            },
+            {
+                "district": "竹北市",
+                "zipoode": "302"
+            },
+            {
+                "district": "湖口鄉",
+                "zipoode": "303"
+            },
+            {
+                "district": "新豐鄉",
+                "zipoode": "304"
+            },
+            {
+                "district": "新埔鎮",
+                "zipoode": "305"
+            },
+            {
+                "district": "關西鎮",
+                "zipoode": "306"
+            },
+            {
+                "district": "芎林鄉",
+                "zipoode": "307"
+            },
+            {
+                "district": "竹東鎮",
+                "zipoode": "310"
+            },
+            {
+                "district": "五峰鄉",
+                "zipoode": "311"
+            },
+            {
+                "district": "橫山鄉",
+                "zipoode": "312"
+            },
+            {
+                "district": "尖石鄉",
+                "zipoode": "313"
+            },
+            {
+                "district": "北埔鄉",
+                "zipoode": "314"
+            },
+            {
+                "district": "峨眉鄉",
+                "zipoode": "315"
+            }
+        ]
+    },
+    {
+        "city": "桃園市",
+        "districts": [
+            {
+                "district": "中壢區",
+                "zipoode": "320"
+            },
+            {
+                "district": "平鎮區",
+                "zipoode": "324"
+            },
+            {
+                "district": "龍潭區",
+                "zipoode": "325"
+            },
+            {
+                "district": "楊梅區",
+                "zipoode": "326"
+            },
+            {
+                "district": "新屋區",
+                "zipoode": "327"
+            },
+            {
+                "district": "觀音區",
+                "zipoode": "328"
+            },
+            {
+                "district": "桃園區",
+                "zipoode": "330"
+            },
+            {
+                "district": "龜山區",
+                "zipoode": "333"
+            },
+            {
+                "district": "八德區",
+                "zipoode": "334"
+            },
+            {
+                "district": "大溪區",
+                "zipoode": "335"
+            },
+            {
+                "district": "復興區",
+                "zipoode": "336"
+            },
+            {
+                "district": "大園區",
+                "zipoode": "337"
+            },
+            {
+                "district": "蘆竹區",
+                "zipoode": "338"
+            }
+        ]
+    },
+    {
+        "city": "苗栗縣",
+        "districts": [
+            {
+                "district": "竹南鎮",
+                "zipoode": "350"
+            },
+            {
+                "district": "頭份市",
+                "zipoode": "351"
+            },
+            {
+                "district": "三灣鄉",
+                "zipoode": "352"
+            },
+            {
+                "district": "南庄鄉",
+                "zipoode": "353"
+            },
+            {
+                "district": "獅潭鄉",
+                "zipoode": "354"
+            },
+            {
+                "district": "後龍鎮",
+                "zipoode": "356"
+            },
+            {
+                "district": "通霄鎮",
+                "zipoode": "357"
+            },
+            {
+                "district": "苑裡鎮",
+                "zipoode": "358"
+            },
+            {
+                "district": "苗栗市",
+                "zipoode": "360"
+            },
+            {
+                "district": "造橋鄉",
+                "zipoode": "361"
+            },
+            {
+                "district": "頭屋鄉",
+                "zipoode": "362"
+            },
+            {
+                "district": "公館鄉",
+                "zipoode": "363"
+            },
+            {
+                "district": "大湖鄉",
+                "zipoode": "364"
+            },
+            {
+                "district": "泰安鄉",
+                "zipoode": "365"
+            },
+            {
+                "district": "銅鑼鄉",
+                "zipoode": "366"
+            },
+            {
+                "district": "三義鄉",
+                "zipoode": "367"
+            },
+            {
+                "district": "西湖鄉",
+                "zipoode": "368"
+            },
+            {
+                "district": "卓蘭鎮",
+                "zipoode": "369"
+            }
+        ]
+    },
+    {
+        "city": "臺中市",
+        "districts": [
+            {
+                "district": "中區",
+                "zipoode": "400"
+            },
+            {
+                "district": "東區",
+                "zipoode": "401"
+            },
+            {
+                "district": "南區",
+                "zipoode": "402"
+            },
+            {
+                "district": "西區",
+                "zipoode": "403"
+            },
+            {
+                "district": "北區",
+                "zipoode": "404"
+            },
+            {
+                "district": "北屯區",
+                "zipoode": "406"
+            },
+            {
+                "district": "西屯區",
+                "zipoode": "407"
+            },
+            {
+                "district": "南屯區",
+                "zipoode": "408"
+            },
+            {
+                "district": "太平區",
+                "zipoode": "411"
+            },
+            {
+                "district": "大里區",
+                "zipoode": "412"
+            },
+            {
+                "district": "霧峰區",
+                "zipoode": "413"
+            },
+            {
+                "district": "烏日區",
+                "zipoode": "414"
+            },
+            {
+                "district": "豐原區",
+                "zipoode": "420"
+            },
+            {
+                "district": "后里區",
+                "zipoode": "421"
+            },
+            {
+                "district": "石岡區",
+                "zipoode": "422"
+            },
+            {
+                "district": "東勢區",
+                "zipoode": "423"
+            },
+            {
+                "district": "和平區",
+                "zipoode": "424"
+            },
+            {
+                "district": "新社區",
+                "zipoode": "426"
+            },
+            {
+                "district": "潭子區",
+                "zipoode": "427"
+            },
+            {
+                "district": "大雅區",
+                "zipoode": "428"
+            },
+            {
+                "district": "神岡區",
+                "zipoode": "429"
+            },
+            {
+                "district": "大肚區",
+                "zipoode": "432"
+            },
+            {
+                "district": "沙鹿區",
+                "zipoode": "433"
+            },
+            {
+                "district": "龍井區",
+                "zipoode": "434"
+            },
+            {
+                "district": "梧棲區",
+                "zipoode": "435"
+            },
+            {
+                "district": "清水區",
+                "zipoode": "436"
+            },
+            {
+                "district": "大甲區",
+                "zipoode": "437"
+            },
+            {
+                "district": "外埔區",
+                "zipoode": "438"
+            },
+            {
+                "district": "大安區",
+                "zipoode": "439"
+            }
+        ]
+    },
+    {
+        "city": "彰化縣",
+        "districts": [
+            {
+                "district": "彰化市",
+                "zipoode": "500"
+            },
+            {
+                "district": "芬園鄉",
+                "zipoode": "502"
+            },
+            {
+                "district": "花壇鄉",
+                "zipoode": "503"
+            },
+            {
+                "district": "秀水鄉",
+                "zipoode": "504"
+            },
+            {
+                "district": "鹿港鎮",
+                "zipoode": "505"
+            },
+            {
+                "district": "福興鄉",
+                "zipoode": "506"
+            },
+            {
+                "district": "線西鄉",
+                "zipoode": "507"
+            },
+            {
+                "district": "和美鎮",
+                "zipoode": "508"
+            },
+            {
+                "district": "伸港鄉",
+                "zipoode": "509"
+            },
+            {
+                "district": "員林市",
+                "zipoode": "510"
+            },
+            {
+                "district": "社頭鄉",
+                "zipoode": "511"
+            },
+            {
+                "district": "永靖鄉",
+                "zipoode": "512"
+            },
+            {
+                "district": "埔心鄉",
+                "zipoode": "513"
+            },
+            {
+                "district": "溪湖鎮",
+                "zipoode": "514"
+            },
+            {
+                "district": "大村鄉",
+                "zipoode": "515"
+            },
+            {
+                "district": "埔鹽鄉",
+                "zipoode": "516"
+            },
+            {
+                "district": "田中鎮",
+                "zipoode": "520"
+            },
+            {
+                "district": "北斗鎮",
+                "zipoode": "521"
+            },
+            {
+                "district": "田尾鄉",
+                "zipoode": "522"
+            },
+            {
+                "district": "埤頭鄉",
+                "zipoode": "523"
+            },
+            {
+                "district": "溪州鄉",
+                "zipoode": "524"
+            },
+            {
+                "district": "竹塘鄉",
+                "zipoode": "525"
+            },
+            {
+                "district": "二林鎮",
+                "zipoode": "526"
+            },
+            {
+                "district": "大城鄉",
+                "zipoode": "527"
+            },
+            {
+                "district": "芳苑鄉",
+                "zipoode": "528"
+            },
+            {
+                "district": "二水鄉",
+                "zipoode": "530"
+            }
+        ]
+    },
+    {
+        "city": "南投縣",
+        "districts": [
+            {
+                "district": "南投市",
+                "zipoode": "540"
+            },
+            {
+                "district": "中寮鄉",
+                "zipoode": "541"
+            },
+            {
+                "district": "草屯鎮",
+                "zipoode": "542"
+            },
+            {
+                "district": "國姓鄉",
+                "zipoode": "544"
+            },
+            {
+                "district": "埔里鎮",
+                "zipoode": "545"
+            },
+            {
+                "district": "仁愛鄉",
+                "zipoode": "546"
+            },
+            {
+                "district": "名間鄉",
+                "zipoode": "551"
+            },
+            {
+                "district": "集集鎮",
+                "zipoode": "552"
+            },
+            {
+                "district": "水里鄉",
+                "zipoode": "553"
+            },
+            {
+                "district": "魚池鄉",
+                "zipoode": "555"
+            },
+            {
+                "district": "信義鄉",
+                "zipoode": "556"
+            },
+            {
+                "district": "竹山鎮",
+                "zipoode": "557"
+            },
+            {
+                "district": "鹿谷鄉",
+                "zipoode": "558"
+            }
+        ]
+    },
+    {
+        "city": "嘉義市",
+        "districts": [
+            {
+                "district": "西區",
+                "zipoode": "600"
+            },
+            {
+                "district": "東區",
+                "zipoode": "600"
+            }
+        ]
+    },
+    {
+        "city": "嘉義縣",
+        "districts": [
+            {
+                "district": "番路鄉",
+                "zipoode": "602"
+            },
+            {
+                "district": "梅山鄉",
+                "zipoode": "603"
+            },
+            {
+                "district": "竹崎鄉",
+                "zipoode": "604"
+            },
+            {
+                "district": "阿里山鄉",
+                "zipoode": "605"
+            },
+            {
+                "district": "中埔鄉",
+                "zipoode": "606"
+            },
+            {
+                "district": "大埔鄉",
+                "zipoode": "607"
+            },
+            {
+                "district": "水上鄉",
+                "zipoode": "608"
+            },
+            {
+                "district": "鹿草鄉",
+                "zipoode": "611"
+            },
+            {
+                "district": "太保市",
+                "zipoode": "612"
+            },
+            {
+                "district": "朴子市",
+                "zipoode": "613"
+            },
+            {
+                "district": "東石鄉",
+                "zipoode": "614"
+            },
+            {
+                "district": "六腳鄉",
+                "zipoode": "615"
+            },
+            {
+                "district": "新港鄉",
+                "zipoode": "616"
+            },
+            {
+                "district": "民雄鄉",
+                "zipoode": "621"
+            },
+            {
+                "district": "大林鎮",
+                "zipoode": "622"
+            },
+            {
+                "district": "溪口鄉",
+                "zipoode": "623"
+            },
+            {
+                "district": "義竹鄉",
+                "zipoode": "624"
+            },
+            {
+                "district": "布袋鎮",
+                "zipoode": "625"
+            }
+        ]
+    },
+    {
+        "city": "雲林縣",
+        "districts": [
+            {
+                "district": "斗南鎮",
+                "zipoode": "630"
+            },
+            {
+                "district": "大埤鄉",
+                "zipoode": "631"
+            },
+            {
+                "district": "虎尾鎮",
+                "zipoode": "632"
+            },
+            {
+                "district": "土庫鎮",
+                "zipoode": "633"
+            },
+            {
+                "district": "褒忠鄉",
+                "zipoode": "634"
+            },
+            {
+                "district": "東勢鄉",
+                "zipoode": "635"
+            },
+            {
+                "district": "臺西鄉",
+                "zipoode": "636"
+            },
+            {
+                "district": "崙背鄉",
+                "zipoode": "637"
+            },
+            {
+                "district": "麥寮鄉",
+                "zipoode": "638"
+            },
+            {
+                "district": "斗六市",
+                "zipoode": "640"
+            },
+            {
+                "district": "林內鄉",
+                "zipoode": "643"
+            },
+            {
+                "district": "古坑鄉",
+                "zipoode": "646"
+            },
+            {
+                "district": "莿桐鄉",
+                "zipoode": "647"
+            },
+            {
+                "district": "西螺鎮",
+                "zipoode": "648"
+            },
+            {
+                "district": "二崙鄉",
+                "zipoode": "649"
+            },
+            {
+                "district": "北港鎮",
+                "zipoode": "651"
+            },
+            {
+                "district": "水林鄉",
+                "zipoode": "652"
+            },
+            {
+                "district": "口湖鄉",
+                "zipoode": "653"
+            },
+            {
+                "district": "四湖鄉",
+                "zipoode": "654"
+            },
+            {
+                "district": "元長鄉",
+                "zipoode": "655"
+            }
+        ]
+    },
+    {
+        "city": "臺南市",
+        "districts": [
+            {
+                "district": "中西區",
+                "zipoode": "700"
+            },
+            {
+                "district": "東區",
+                "zipoode": "701"
+            },
+            {
+                "district": "南區",
+                "zipoode": "702"
+            },
+            {
+                "district": "北區",
+                "zipoode": "704"
+            },
+            {
+                "district": "安平區",
+                "zipoode": "708"
+            },
+            {
+                "district": "安南區",
+                "zipoode": "709"
+            },
+            {
+                "district": "永康區",
+                "zipoode": "710"
+            },
+            {
+                "district": "歸仁區",
+                "zipoode": "711"
+            },
+            {
+                "district": "新化區",
+                "zipoode": "712"
+            },
+            {
+                "district": "左鎮區",
+                "zipoode": "713"
+            },
+            {
+                "district": "玉井區",
+                "zipoode": "714"
+            },
+            {
+                "district": "楠西區",
+                "zipoode": "715"
+            },
+            {
+                "district": "南化區",
+                "zipoode": "716"
+            },
+            {
+                "district": "仁德區",
+                "zipoode": "717"
+            },
+            {
+                "district": "關廟區",
+                "zipoode": "718"
+            },
+            {
+                "district": "龍崎區",
+                "zipoode": "719"
+            },
+            {
+                "district": "官田區",
+                "zipoode": "720"
+            },
+            {
+                "district": "麻豆區",
+                "zipoode": "721"
+            },
+            {
+                "district": "佳里區",
+                "zipoode": "722"
+            },
+            {
+                "district": "西港區",
+                "zipoode": "723"
+            },
+            {
+                "district": "七股區",
+                "zipoode": "724"
+            },
+            {
+                "district": "將軍區",
+                "zipoode": "725"
+            },
+            {
+                "district": "學甲區",
+                "zipoode": "726"
+            },
+            {
+                "district": "北門區",
+                "zipoode": "727"
+            },
+            {
+                "district": "新營區",
+                "zipoode": "730"
+            },
+            {
+                "district": "後壁區",
+                "zipoode": "731"
+            },
+            {
+                "district": "白河區",
+                "zipoode": "732"
+            },
+            {
+                "district": "東山區",
+                "zipoode": "733"
+            },
+            {
+                "district": "六甲區",
+                "zipoode": "734"
+            },
+            {
+                "district": "下營區",
+                "zipoode": "735"
+            },
+            {
+                "district": "柳營區",
+                "zipoode": "736"
+            },
+            {
+                "district": "鹽水區",
+                "zipoode": "737"
+            },
+            {
+                "district": "善化區",
+                "zipoode": "741"
+            },
+            {
+                "district": "新市區",
+                "zipoode": "744"
+            },
+            {
+                "district": "大內區",
+                "zipoode": "742"
+            },
+            {
+                "district": "山上區",
+                "zipoode": "743"
+            },
+            {
+                "district": "安定區",
+                "zipoode": "745"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "districts": [
+            {
+                "district": "新興區",
+                "zipoode": "800"
+            },
+            {
+                "district": "前金區",
+                "zipoode": "801"
+            },
+            {
+                "district": "苓雅區",
+                "zipoode": "802"
+            },
+            {
+                "district": "鹽埕區",
+                "zipoode": "803"
+            },
+            {
+                "district": "鼓山區",
+                "zipoode": "804"
+            },
+            {
+                "district": "旗津區",
+                "zipoode": "805"
+            },
+            {
+                "district": "前鎮區",
+                "zipoode": "806"
+            },
+            {
+                "district": "三民區",
+                "zipoode": "807"
+            },
+            {
+                "district": "楠梓區",
+                "zipoode": "811"
+            },
+            {
+                "district": "小港區",
+                "zipoode": "812"
+            },
+            {
+                "district": "左營區",
+                "zipoode": "813"
+            },
+            {
+                "district": "仁武區",
+                "zipoode": "814"
+            },
+            {
+                "district": "大社區",
+                "zipoode": "815"
+            },
+            {
+                "district": "東沙群島",
+                "zipoode": "817"
+            },
+            {
+                "district": "南沙群島",
+                "zipoode": "819"
+            },
+            {
+                "district": "岡山區",
+                "zipoode": "820"
+            },
+            {
+                "district": "路竹區",
+                "zipoode": "821"
+            },
+            {
+                "district": "阿蓮區",
+                "zipoode": "822"
+            },
+            {
+                "district": "田寮區",
+                "zipoode": "823"
+            },
+            {
+                "district": "燕巢區",
+                "zipoode": "824"
+            },
+            {
+                "district": "橋頭區",
+                "zipoode": "825"
+            },
+            {
+                "district": "梓官區",
+                "zipoode": "826"
+            },
+            {
+                "district": "彌陀區",
+                "zipoode": "827"
+            },
+            {
+                "district": "永安區",
+                "zipoode": "828"
+            },
+            {
+                "district": "湖內區",
+                "zipoode": "829"
+            },
+            {
+                "district": "鳳山區",
+                "zipoode": "830"
+            },
+            {
+                "district": "大寮區",
+                "zipoode": "831"
+            },
+            {
+                "district": "林園區",
+                "zipoode": "832"
+            },
+            {
+                "district": "鳥松區",
+                "zipoode": "833"
+            },
+            {
+                "district": "大樹區",
+                "zipoode": "840"
+            },
+            {
+                "district": "旗山區",
+                "zipoode": "842"
+            },
+            {
+                "district": "美濃區",
+                "zipoode": "843"
+            },
+            {
+                "district": "六龜區",
+                "zipoode": "844"
+            },
+            {
+                "district": "內門區",
+                "zipoode": "845"
+            },
+            {
+                "district": "杉林區",
+                "zipoode": "846"
+            },
+            {
+                "district": "甲仙區",
+                "zipoode": "847"
+            },
+            {
+                "district": "桃源區",
+                "zipoode": "848"
+            },
+            {
+                "district": "那瑪夏區",
+                "zipoode": "849"
+            },
+            {
+                "district": "茂林區",
+                "zipoode": "851"
+            },
+            {
+                "district": "茄萣區",
+                "zipoode": "852"
+            }
+        ]
+    },
+    {
+        "city": "南海島",
+        "districts": [
+            {
+                "district": "東沙群島",
+                "zipoode": "817"
+            },
+            {
+                "district": "南沙群島",
+                "zipoode": "819"
+            }
+        ]
+    },
+    {
+        "city": "澎湖縣",
+        "districts": [
+            {
+                "district": "馬公市",
+                "zipoode": "880"
+            },
+            {
+                "district": "西嶼鄉",
+                "zipoode": "881"
+            },
+            {
+                "district": "望安鄉",
+                "zipoode": "882"
+            },
+            {
+                "district": "七美鄉",
+                "zipoode": "883"
+            },
+            {
+                "district": "白沙鄉",
+                "zipoode": "884"
+            },
+            {
+                "district": "湖西鄉",
+                "zipoode": "885"
+            }
+        ]
+    },
+    {
+        "city": "金門縣",
+        "districts": [
+            {
+                "district": "金沙鎮",
+                "zipoode": "890"
+            },
+            {
+                "district": "金湖鎮",
+                "zipoode": "891"
+            },
+            {
+                "district": "金寧鄉",
+                "zipoode": "892"
+            },
+            {
+                "district": "金城鎮",
+                "zipoode": "893"
+            },
+            {
+                "district": "烈嶼鄉",
+                "zipoode": "894"
+            },
+            {
+                "district": "烏坵鄉",
+                "zipoode": "896"
+            }
+        ]
+    },
+    {
+        "city": "屏東縣",
+        "districts": [
+            {
+                "district": "屏東市",
+                "zipoode": "900"
+            },
+            {
+                "district": "三地門鄉",
+                "zipoode": "901"
+            },
+            {
+                "district": "霧臺鄉",
+                "zipoode": "902"
+            },
+            {
+                "district": "瑪家鄉",
+                "zipoode": "903"
+            },
+            {
+                "district": "九如鄉",
+                "zipoode": "904"
+            },
+            {
+                "district": "里港鄉",
+                "zipoode": "905"
+            },
+            {
+                "district": "高樹鄉",
+                "zipoode": "906"
+            },
+            {
+                "district": "鹽埔鄉",
+                "zipoode": "907"
+            },
+            {
+                "district": "長治鄉",
+                "zipoode": "908"
+            },
+            {
+                "district": "麟洛鄉",
+                "zipoode": "909"
+            },
+            {
+                "district": "竹田鄉",
+                "zipoode": "911"
+            },
+            {
+                "district": "內埔鄉",
+                "zipoode": "912"
+            },
+            {
+                "district": "萬丹鄉",
+                "zipoode": "913"
+            },
+            {
+                "district": "潮州鎮",
+                "zipoode": "920"
+            },
+            {
+                "district": "泰武鄉",
+                "zipoode": "921"
+            },
+            {
+                "district": "來義鄉",
+                "zipoode": "922"
+            },
+            {
+                "district": "萬巒鄉",
+                "zipoode": "923"
+            },
+            {
+                "district": "崁頂鄉",
+                "zipoode": "924"
+            },
+            {
+                "district": "新埤鄉",
+                "zipoode": "925"
+            },
+            {
+                "district": "南州鄉",
+                "zipoode": "926"
+            },
+            {
+                "district": "林邊鄉",
+                "zipoode": "927"
+            },
+            {
+                "district": "東港鎮",
+                "zipoode": "928"
+            },
+            {
+                "district": "琉球鄉",
+                "zipoode": "929"
+            },
+            {
+                "district": "佳冬鄉",
+                "zipoode": "931"
+            },
+            {
+                "district": "新園鄉",
+                "zipoode": "932"
+            },
+            {
+                "district": "枋寮鄉",
+                "zipoode": "940"
+            },
+            {
+                "district": "枋山鄉",
+                "zipoode": "941"
+            },
+            {
+                "district": "春日鄉",
+                "zipoode": "942"
+            },
+            {
+                "district": "獅子鄉",
+                "zipoode": "943"
+            },
+            {
+                "district": "車城鄉",
+                "zipoode": "944"
+            },
+            {
+                "district": "牡丹鄉",
+                "zipoode": "945"
+            },
+            {
+                "district": "恆春鎮",
+                "zipoode": "946"
+            },
+            {
+                "district": "滿州鄉",
+                "zipoode": "947"
+            }
+        ]
+    },
+    {
+        "city": "臺東縣",
+        "districts": [
+            {
+                "district": "臺東市",
+                "zipoode": "950"
+            },
+            {
+                "district": "綠島鄉",
+                "zipoode": "951"
+            },
+            {
+                "district": "蘭嶼鄉",
+                "zipoode": "952"
+            },
+            {
+                "district": "延平鄉",
+                "zipoode": "953"
+            },
+            {
+                "district": "卑南鄉",
+                "zipoode": "954"
+            },
+            {
+                "district": "鹿野鄉",
+                "zipoode": "955"
+            },
+            {
+                "district": "關山鎮",
+                "zipoode": "956"
+            },
+            {
+                "district": "海端鄉",
+                "zipoode": "957"
+            },
+            {
+                "district": "池上鄉",
+                "zipoode": "958"
+            },
+            {
+                "district": "東河鄉",
+                "zipoode": "959"
+            },
+            {
+                "district": "成功鎮",
+                "zipoode": "961"
+            },
+            {
+                "district": "長濱鄉",
+                "zipoode": "962"
+            },
+            {
+                "district": "太麻里鄉",
+                "zipoode": "963"
+            },
+            {
+                "district": "金峰鄉",
+                "zipoode": "964"
+            },
+            {
+                "district": "大武鄉",
+                "zipoode": "965"
+            },
+            {
+                "district": "達仁鄉",
+                "zipoode": "966"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "districts": [
+            {
+                "district": "花蓮市",
+                "zipoode": "970"
+            },
+            {
+                "district": "新城鄉",
+                "zipoode": "971"
+            },
+            {
+                "district": "秀林鄉",
+                "zipoode": "972"
+            },
+            {
+                "district": "吉安鄉",
+                "zipoode": "973"
+            },
+            {
+                "district": "壽豐鄉",
+                "zipoode": "974"
+            },
+            {
+                "district": "鳳林鎮",
+                "zipoode": "975"
+            },
+            {
+                "district": "光復鄉",
+                "zipoode": "976"
+            },
+            {
+                "district": "豐濱鄉",
+                "zipoode": "977"
+            },
+            {
+                "district": "瑞穗鄉",
+                "zipoode": "978"
+            },
+            {
+                "district": "萬榮鄉",
+                "zipoode": "979"
+            },
+            {
+                "district": "玉里鎮",
+                "zipoode": "981"
+            },
+            {
+                "district": "卓溪鄉",
+                "zipoode": "982"
+            },
+            {
+                "district": "富里鄉",
+                "zipoode": "983"
+            }
+        ]
+    }
+]
